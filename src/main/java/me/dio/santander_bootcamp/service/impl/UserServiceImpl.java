@@ -1,8 +1,8 @@
-package me.dio.santander_bootcamp.domain.service.impl;
+package me.dio.santander_bootcamp.service.impl;
 
 import me.dio.santander_bootcamp.domain.model.User;
 import me.dio.santander_bootcamp.domain.repository.UserRepository;
-import me.dio.santander_bootcamp.domain.service.UserService;
+import me.dio.santander_bootcamp.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.NoSuchElementException;

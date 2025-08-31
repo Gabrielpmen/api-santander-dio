@@ -1,4 +1,4 @@
-package me.dio.santander_bootcamp.domain.service;
+package me.dio.santander_bootcamp.service;
 
 import me.dio.santander_bootcamp.domain.model.User;
 
